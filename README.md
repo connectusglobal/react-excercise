@@ -10,4 +10,44 @@ At Connectus Global we think [React](https://reactjs.org/) is pretty great. It p
 
 ## What are we building?
 
-The application is a single page application, bootstraped with the create-react-app. At completion, we'll have an application with one (1) component that can accept input and fetch remote data, the below list can be used for the functionality we are looking for:
+The application is a single page application, bootstraped with the create-react-app. At completion, we'll have an application with one (1) component that can accept input and fetch remote data, the below list can be used for some of the functionality to include **our application has many if not all of the below items somewhere in it's codebase:
+
+You can find an example located [here](https://gateway.connectusglobal.com/react-test), the example page has three components, each one with varying complexities.
+
+This branch has the code for the first component.
+
+We are not looking for a perfect component, just a simple example of what you wish us to see.
+
+1. A simple search input box, and function to get title to jsx in html
+2. Display a list of data with attributes
+3. Seperating concerns into components
+4. Arrow functions
+5. Handler functions
+6. Props
+7. State
+8. Callback Handlers
+9. Lifting State & filtering
+10. Controlled conponents
+11. Advanced prop handling
+12. Side effects
+13. Custom hook
+14. Fragments
+15. Reusable component
+16. Imperative react
+17. Inline handlers
+18. Asynchronous Data
+19. Conditional rendering
+20. Advanced state
+21. Impossible states
+22. Advanced data fetching
+23. Data refetching
+24. Memoized handler
+25. Explicit data fetching
+26. Axios to fetch data
+27. Async/Await
+28. Forms
+29. Styling with css
+30. Sorting
+31. Reverse sort
+32. recalling-last-search
+33. Pagination
