@@ -12,7 +12,7 @@ At Connectus Global we think [React](https://reactjs.org/) is pretty great. It p
 
 The application is a single page application, bootstraped with the create-react-app. At completion, we'll have an application with one (1) component that can accept input and fetch remote data, the below list can be used for some of the functionality to include \*\*our application has many if not all of the below items somewhere in it's codebase:
 
-You can find an example located [here](https://gateway.connectusglobal.com/react-test), the example page has three components, each one with varying complexities.
+You can find an example located [here](http://99.79.183.90:3000/), the example page has three components, each one with varying complexities.
 
 This branch has the code for the first component.
 
