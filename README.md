@@ -10,7 +10,7 @@ At Connectus Global we think [React](https://reactjs.org/) is pretty great. It p
 
 ## What are we building?
 
-The application is a single page application, bootstraped with the create-react-app. At completion, we'll have an application with one (1) component that can accept input and fetch remote data, the below list can be used for some of the functionality to include **our application has many if not all of the below items somewhere in it's codebase:
+The application is a single page application, bootstraped with the create-react-app. At completion, we'll have an application with one (1) component that can accept input and fetch remote data, the below list can be used for some of the functionality to include \*\*our application has many if not all of the below items somewhere in it's codebase:
 
 You can find an example located [here](https://gateway.connectusglobal.com/react-test), the example page has three components, each one with varying complexities.
 
@@ -51,3 +51,7 @@ We are not looking for a perfect component, just a simple example of what you wi
 31. Reverse sort
 32. recalling-last-search
 33. Pagination
+
+## Questions
+
+Any questions you may have concerning the test can be emailed directly to kedwards@connectusglobal.com
