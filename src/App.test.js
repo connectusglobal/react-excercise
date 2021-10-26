@@ -4,6 +4,6 @@ import App from "../src/App";
 
 test("renders learn react link", () => {
   const { getByText } = render(<App />);
-  const linkElement = getByText(/Connectus Global 2020 Q1 Challenge!/i);
+  const linkElement = getByText(/Connectus Global 2021 Challenge!/i);
   expect(linkElement).toBeInTheDocument();
 });

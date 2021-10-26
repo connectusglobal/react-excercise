@@ -1,4 +1,4 @@
-# Connectus Global Full Stack (React) Engineering Exercise 2020 Q1
+# Connectus Global Full Stack (React) Engineering Exercise 2021
 
 ### Hello from Connectus Global!
 
@@ -6,19 +6,21 @@ We're excited to share this take-home exercise with you. We look forward to disc
 
 ## Overview
 
-At Connectus Global we think [React](https://reactjs.org/) is pretty great. It played a huge role for us and is the frontend framework of choice, and obviously the one we use for one of our flagship applications. If you haven't used React before (we believe almost all candidates receiving this exercise have at least some exposure), it is conceptually very similar to Angular or Vue. If you've used either, we think you'll feel comfortable with the setup here. Using the base application provided and a combination of provided code and code you write, we'll build a simple single page application (spa) that exhibits the features, power dn flexibility of react.
+At Connectus Global we think [React](https://reactjs.org/) is pretty great. It played a huge role for us and is the frontend framework of choice, and obviously the one we use for one of our flagship applications. If you haven't used React before (we believe almost all candidates receiving this exercise have at least some exposure), it is conceptually very similar to Angular or Vue. If you've used either, we think you'll feel comfortable with the setup here.
 
-## What are we building?
+## What are you building?
 
-The application is a single page application, bootstraped with the create-react-app. At completion, we'll have an application with one (1) component that can accept input and fetch remote data, the below list can be used for some of the functionality to include \*\*our application has many if not all of the below items somewhere in it's codebase:
+Anything you want, no really anything..
 
-You can find an example located [here](http://99.79.183.90:3000/), the example page has three components, each one with varying complexities.
+Start from scratch, use CRA, hell create it with no library, show us what you got..
 
-This branch has the code for the first component.
+A simple SPA that exhibits the features, power and flexibility of react, and how you use it..
 
-We are not looking for a perfect component, just a simple example of what you wish us to see.
+We are not looking for a perfect component, just an example of what you wish to show us about your react dev skills.
 
-1. A simple search input box, and function to get title to jsx in html
+The below list can be used for some of the functionality to include \*\*our application has many if not all of the below items located somewhere in it's codebase:
+
+1. JSX in HTML
 2. Display a list of data with attributes
 3. Seperating concerns into components
 4. Arrow functions
@@ -43,7 +45,7 @@ We are not looking for a perfect component, just a simple example of what you wi
 23. Data refetching
 24. Memoized handler
 25. Explicit data fetching
-26. Axios to fetch data
+26. fetching data
 27. Async/Await
 28. Forms
 29. Styling with css
@@ -54,4 +56,4 @@ We are not looking for a perfect component, just a simple example of what you wi
 
 ## Questions
 
-Any questions you may have concerning the test can be emailed directly to kedwards@connectusglobal.com
+Any questions you may have concerning the test can be emailed directly to it@connectusglobal.com
